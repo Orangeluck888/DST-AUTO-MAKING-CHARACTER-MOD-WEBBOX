@@ -2,7 +2,7 @@
 name = "我的自定义角色"
 description = "这是一个自定义角色模组\n\n特性：\n- 自定义属性\n- 特殊能力\n- 独特技能"
 author = "Your Name"
-version = "1.0.0"
+version = "1.1.0"
 
 -- 游戏版本兼容性
 api_version = 10
